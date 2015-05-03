@@ -363,7 +363,7 @@ table {
   }
 }
 
-@media screen and (max-width: $minscreenwidth) {
+@media screen and (max-width: 800px) {
   .sidebarhandle {
     display: none;
   }
